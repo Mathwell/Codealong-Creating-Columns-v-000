@@ -101,7 +101,7 @@ figcaption {
   margin-left: 0%;
 }
 
-.clearfix {
+.clearfix::after {
   content: ".";
   display: block;
   clear: both;
