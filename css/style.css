@@ -115,3 +115,7 @@ img, video, audio {
   height: 0;
   weight: 0;
 }
+
+section{
+  margin-bottom: 20px;
+}
